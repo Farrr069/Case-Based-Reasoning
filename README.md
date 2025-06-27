@@ -2,7 +2,7 @@ Case-Based Reasoning (CBR) Project
 
 Proyek ini menunjukkan penerapan Case-Based Reasoning (CBR) untuk analisis kasus hukum, yang meliputi pembersihan data, representasi kasus, retrieval, dan prediksi.
 
-Struktur Proyek
+Struktur Proyek 
 Case-Based-Reasoning/
 │
 ├── data/                  # Data mentah & data yang telah diproses
